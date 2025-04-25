@@ -1,7 +1,7 @@
-//Integrante 1: Angelo González
-//Integrante 2: Moisés Jiménez
-//Integrante 3: Nicolas Rosales
-//Integrante 4: Matias Lopez
+//Integrante 1: Angelo 
+//Integrante 2: Moisés 
+//Integrante 3: Nicolas 
+//Integrante 4: Matias 
 //Profesor(a): Leonardo Bravo
 //Sección: 
 
